@@ -9,3 +9,5 @@ Te damos la Bienvenida.
 ### Listado de Proyectos
 1. Juego del ahorcado
 2. Generación de cartones para bingo
+> El código está generado con IA y no es de uso generalizado
+*"El juego de la generación de cartones"*
